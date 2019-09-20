@@ -1,3 +1,8 @@
 body {
+  background-color: black;
+  overflow: hidden;
+}
 
+#battleArea {
+  background-color: black;
 }
